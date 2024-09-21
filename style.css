@@ -1,0 +1,34 @@
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    width: 100%;
+}
+
+.certi{
+    letter-spacing: .25cm;
+    font-weight: 1000;
+}
+
+.reg{
+    padding-left: 10px;
+    justify-content: center;
+    display: flex;
+    margin-right: 800px;
+    
+}
+
+.regno{
+    padding-left: 2ch;
+    color: red;
+    font-weight: 500;
+}
+
+.logo img {
+    max-width: 150px;
+}
+
+  
+.head_info {
+    padding-left: 50px;
+}
