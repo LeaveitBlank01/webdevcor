@@ -72,3 +72,19 @@ th, td {
 th {
     background-color: #f2f2f2;
 }
+
+.info{
+    text-align: left;
+    display: flex;
+}
+
+header{
+    border-bottom: 2px solid black; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 100%;
+    background-color: #f2f2f2;
+
+
+}
