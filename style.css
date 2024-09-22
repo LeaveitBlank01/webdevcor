@@ -93,6 +93,8 @@ header{
 
 .right{
     max-width: 50%;
+    width: 100%;
+    border-collapse: collapse;
 }
 
 .left{
@@ -100,4 +102,16 @@ header{
     padding-top: 15%;
     padding-left: 5%;
     padding-right: 5%;
+}
+
+.prices{
+    text-align: right;
+    vertical-align: top;
+}
+.assessed_fees{
+    text-align: left;
+    vertical-align: top;
+}
+td.assessed_fees, td.prices{
+    border: none;
 }
