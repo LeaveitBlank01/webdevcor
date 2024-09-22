@@ -79,6 +79,14 @@ th {
 .info{
     text-align: left;
     display: flex;
+    justify-content: space-between;
+}
+
+.info2{
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50%;
 }
 
 header{
