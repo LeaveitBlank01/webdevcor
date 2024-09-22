@@ -94,8 +94,8 @@ header{
 }
 
 table.right{
-    max-width: 50%;
-    width: 30%;
+    max-width: 90%;
+    width: 60%;
     height: 30%;
     padding: 5%;
     font-size: 12px;
@@ -104,8 +104,8 @@ table.right{
 .left{
     position: relative;
     padding-top: 1%;
-    padding-left: 15%;
-    padding-right: 0%;
+    padding-left: 10%;
+    padding-right: 5%;
 }
 
 .prices{
