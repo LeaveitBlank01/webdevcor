@@ -85,6 +85,19 @@ header{
     text-align: center;
     width: 100%;
     background-color: #f2f2f2;
+}
 
+.fees_refund{
+    display: flex;
+}
 
+.right{
+    max-width: 50%;
+}
+
+.left{
+    position: relative;
+    padding-top: 15%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
