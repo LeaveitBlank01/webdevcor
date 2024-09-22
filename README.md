@@ -1,2 +1,0 @@
-# webdevcor
-replica of cor
